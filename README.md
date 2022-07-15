@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/78974094/179299472-4eed3b15-7bbb-4d78-940f-911805046805.png)
+![MasterHead](https://user-images.githubusercontent.com/78974094/179299472-4eed3b15-7bbb-4d78-940f-911805046805.png)
 <h1 align="center">Hi 👋, I'm Shubhankar Das</h1>
 <h3 align="center">A passionate Android Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
